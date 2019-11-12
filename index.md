@@ -1,3 +1,18 @@
+---
+layout: archive
+lang: en
+ref: learn
+read_time: true
+share: true
+author_profile: false
+permalink: /docs/en/platform/turtlebot3/learn/
+sidebar:
+  title: TurtleBot3
+  nav: "turtlebot3"
+product_group: turtlebot3
+page_number: 29
+---
+
 # 大分頁
 
 ## 小分頁
